@@ -1,0 +1,7 @@
+.terraform
+kube.config
+.kubeconfig
+*.tfstate
+*.tfstate.backup
+plan
+*.tfplan
